@@ -21,7 +21,7 @@ Catering Services: Let us cater your next event or celebration with our customiz
 HTML, CSS, JavaScript
 
 ## View @
- https://github.com/your-username/restaurant-website.git
+https://maihar04.github.io/WEB_Tech_Assignment-1/
 
 ## Contributing
 We welcome contributions from the community! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
